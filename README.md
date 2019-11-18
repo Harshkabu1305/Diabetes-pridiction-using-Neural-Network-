@@ -1,2 +1,2 @@
-# perceptronManyInputs
-implementation of single layer perceptron learning algorithm with many inputs
+#Diabetes prediction using neural network 
+implementation of multiple perceptron layer learning algorithm with many inputs
