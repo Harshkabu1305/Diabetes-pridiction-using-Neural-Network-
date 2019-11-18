@@ -1,2 +1,2 @@
-# Diabetes-pridiction-using-Neural-Network-
- Neural Network Model to Predict Diabetes Using National Institute of Diabetes Dataset in C  language.
+# perceptronManyInputs
+implementation of single layer perceptron learning algorithm with many inputs
